@@ -1,3 +1,3 @@
 # Создать в MySQL базу данных «Библиотека. Книговыдача», состоящую из 4-х связанных таблиц
 
-![alt text](main/Screenshot/Tables.png "Описание будет тут")
+![alt text](main/Tables.png "DA")
